@@ -1,4 +1,6 @@
 # EDA
+
+![image](image.jfif)
 ### This repo seeks to define the various stages involved in exploratory data analysis
 
 
